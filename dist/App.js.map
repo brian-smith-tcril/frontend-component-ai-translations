@@ -1,0 +1,1 @@
+{"version":3,"file":"App.js","names":["App","_jsxRuntime","jsx","_default","exports","default"],"sources":["../src/App.jsx"],"sourcesContent":["const App = () => <div data-testid=\"empty-app\" />;\n\nexport default App;\n"],"mappings":";;;;;;;AAAA,MAAMA,GAAG,GAAGA,CAAA,kBAAM,IAAAC,WAAA,CAAAC,GAAA;EAAK,eAAY;AAAW,CAAE,CAAC;AAAC,IAAAC,QAAA,GAAAC,OAAA,CAAAC,OAAA,GAEnCL,GAAG"}
